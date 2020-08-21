@@ -1,0 +1,39 @@
+body{
+	background-size: cover;
+	background-image: url("/images/blur-bckg.png");
+	background-attachment: fixed;
+	background-repeat: repeat-x;
+	font-family: "Crimson Text", serif;
+	font-size: 20px;
+	line-height: 70px;
+}
+
+main h1{
+	font-size: 60px;
+	text-align: center;
+	color: tomato;
+	background-color: #FFECF5;
+	font-family: "Open Sans Condensed", sans-serif;
+	padding: 30px;
+	margin: 0;
+}
+
+h2{
+	font-size: 30px;
+	font-family: "Open Sans Condensed", sans-serif;
+	color: tomato;
+}
+
+p{
+	text-align: justify;
+	line-height: 30px;
+}
+
+blockquote{
+	background-color: #D3DDDA;
+	padding: 10px;
+	border: 10px solid #C2CCCA;
+	width: 250px;
+	margin: 0;
+	box-sizing:border-box;
+}
